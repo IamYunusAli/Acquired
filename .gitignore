@@ -2,3 +2,4 @@
 notebooks/data
 notebooks/script/__pycache__
 notebooks/script/*.pyc
+.env
