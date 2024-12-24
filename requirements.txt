@@ -1,0 +1,11 @@
+pandas
+matplotlib
+datetime
+numpy
+seaborn
+dotenv
+psycopg2
+sqlalchemy
+scikit-learn
+nbformat
+streamlit
